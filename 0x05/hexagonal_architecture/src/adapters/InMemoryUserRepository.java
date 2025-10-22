@@ -1,3 +1,4 @@
+package domain;
 import domain.User;
 import ports.UserRepository;
 
